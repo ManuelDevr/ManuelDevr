@@ -16,28 +16,39 @@
 
 <h2>  // Skills  </h2>
   
-- <h3> programming & markup languages </h3>
-  
-  <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "html" />
-  <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "css" />
-  <img src = "https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt = "sass" />
-  <img src = "https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "js" />
-  <img src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt = "python" />
+<h3> programming & markup languages </h3>
+<div style="display: flex; justify-content: space-around; align-items: center; gap: 30px;">
+    <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python Icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript Icon" width="65" height="65" />
+    </div>
+    <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
+        <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python" style="margin-top: 5px; margin-bottom: 0;" />
+        <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="js" style="margin-top: 5px; margin-bottom: 0;" />
+    </div>
+</div>
   
   - <h4> currently learning </h4>
     <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt = "ts" />
     
   
 - <h3>  frameworks & libraries </h3>
-  <img src = "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt = "react" />
-  <img src = "https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt = "bootstrap5" />
-  <img src = "https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt = "tailwind" />
+<div style="display: flex; justify-content: space-around; align-items: center; gap: 30px;">
+    <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React Icon" width="65" height="65"/>
+        <img src="https://skillicons.dev/icons?i=bootstrap" alt="Python Icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=tailwind" alt="JavaScript Icon" width="65" height="65" />
+    </div>
+    <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
+        <img src = "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt = "react" style="margin-top: 5px; margin-bottom: 0;" />
+        <img src = "https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt = "tailwind" style="margin-top: 5px; margin-bottom: 0;" />
+        <img src = "https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt = "next.js" style="margin-top: 5px; margin-bottom: 0;" />
+    </div>
+</div>
   
 - <h3> tools </h3>
     <img src = "https://img.shields.io/badge/figma-7434a4?style=for-the-badge&logo=figma&logoColor=white" alt = "figma" />
     <img src = "https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt = "git" />
-  <img src = "https://img.shields.io/badge/adobe%20photoshop-001E36.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=" alt = "photoshop" />
-  <img src = "https://img.shields.io/badge/adobe%20illustrator-3c240c.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=f8a829" alt = "illustrator" />
   
   - <h4> currently learning </h4>
   
@@ -124,3 +135,7 @@
  </tr>
 </table>
 <br><br>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
