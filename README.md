@@ -64,7 +64,6 @@ Desarrollador web enfocado en el ecosistema JavaScript y PHP. Disfruto transform
 
 <p align="left">
   <b style="font-size: 1.1em;">Relacionales:</b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=oracle" width="35" alt="Oracle" valign="middle" /> <span>Oracle Database</span> &nbsp;&nbsp;
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="35" alt="MySQL" valign="middle" /> <span>MySQL</span> &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=postgres" width="35" alt="PostgreSQL" valign="middle" /> <span>PostgreSQL</span>
 </p>
